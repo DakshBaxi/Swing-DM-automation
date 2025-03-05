@@ -48,7 +48,7 @@ export default function Navbar({ onFeaturesClick, onAboutClick, onPricingClick }
         <div className="hidden md:flex space-x-4">
         <Button
                 variant="outline"
-                className="border-black text-black hover:bg-black hover:text-white"
+                className="border-black bg-white text-black hover:bg-black hover:text-white"
               >
               <Link href="/dashboard">Login</Link>
               </Button>
@@ -103,7 +103,7 @@ export default function Navbar({ onFeaturesClick, onAboutClick, onPricingClick }
             <div className="flex justify-center space-x-4 pt-4">
               <Button
                 variant="outline"
-                className="border-black text-black hover:bg-black hover:text-white"
+                className="border-black text-black bg-white hover:bg-black hover:text-white"
               >
                <Link href="/dashboard">Login</Link>
               </Button>
