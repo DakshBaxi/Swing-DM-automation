@@ -6,8 +6,8 @@ export default function HeroSection() {
     <section className="py-16 md:py-24 px-4">
       <div className="container mx-auto text-center">
         <h1 className="text-4xl md:text-6xl font-bold mb-6">
-          Transform Your Instagram <br />
-          Engagement with <span className="text-violet-400">Swing</span>
+        Elevate Your Instagram  <br />
+        Engagement with  <span className="text-violet-400">Swing</span>
         </h1>
 
         <p className="text-lg md:text-xl text-gray-300 max-w-3xl mx-auto mb-8">
